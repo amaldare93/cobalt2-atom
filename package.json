@@ -1,9 +1,9 @@
 {
-  "name": "cobalt2-syntax",
+  "name": "cobalt2-syntax-no-highlights",
   "theme": "syntax",
-  "version": "0.3.0",
-  "description": "An Atom theme based on our old blue friend cobalt.",
-  "repository": "https://github.com/wesbos/cobalt2-atom",
+  "version": "0.1.0",
+  "description": "An Atom theme based on our old blue friend cobalt. Without the blue highlights behind keywords and variables",
+  "repository": "https://github.com/amaldare93/cobalt2-atom",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"

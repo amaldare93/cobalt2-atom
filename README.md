@@ -1,4 +1,4 @@
-# Cobalt2 Syntax
+# Cobalt2 Syntax _(No Highlights)_
 
 Cobalt2 - the Sublime Text theme, ported to Atom!
 
@@ -7,6 +7,14 @@ An Atom syntax theme based on our old blue friend cobalt. A refined colour schem
 Pairs well with built-in One Dark UI Theme.
 
 ![Screenshot](https://github.com/wesbos/cobalt2-atom/raw/master/screenshot.png)
+
+## What's Different
+
+This is just a fork from Wes Bos' popular theme. The differences are: 
+
+* Variables and certain keywords no longer have a slightly different background color.
+* Javascript object keys (non-quoted) are now mint colored (à la his latest [commit](https://github.com/wesbos/cobalt2/commit/157292725a6717807fd3372bdc7a7e00bb213be6) to the sublime theme)
+
 
 ## Installation
 
