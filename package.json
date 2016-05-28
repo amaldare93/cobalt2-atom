@@ -1,7 +1,7 @@
 {
   "name": "cobalt2-syntax-no-highlights",
   "theme": "syntax",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "A fork of Wes Bos' Cobalt2 -- Without the blue highlights behind keywords and variables",
   "repository": "https://github.com/amaldare93/cobalt2-atom",
   "license": "MIT",
